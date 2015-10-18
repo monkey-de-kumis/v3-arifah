@@ -1,0 +1,70 @@
+.myFitri {
+	display: block;
+}
+
+.myFitri ul {
+	margin: 0;
+	text-align: left;
+}
+.myFitri ul li{
+	  display: inline-block;
+  	  vertical-align: text-top;
+}
+
+.myFitri ul li a {
+	margin-left: 0;
+}
+.featured-thumb {
+	display: block;
+}
+.ovaltine {
+	display: block;
+}
+.ovaltine a {
+	display: block;
+	width:128px;
+}
+
+
+
+
+
+.myDarlingFitri {
+	display: block;
+}
+.myDarlingFitri ul {
+	margin: 0;
+	text-align: left;
+}
+
+.myDarlingFitri ul li {
+	display: block;
+	
+	padding: 10px 10px;
+	border: solid 1px #ebebeb;
+}
+
+.myDarlingFitri ul li:hover {
+	background-color: #B3B3B3;
+	border: solid 1px #fefefe; 
+}
+
+.myDarlingFiti ul li a {
+	margin-left: 0;
+	display: block;	
+}
+.featured-mini  {
+	display: inline-block;
+  	vertical-align: top;
+}
+.milo {
+	display: inline-block;
+}
+.milo .getset {
+	display:inline-block;
+	width:	220px
+}
+
+.milo .post-date {
+	display: block;
+}
